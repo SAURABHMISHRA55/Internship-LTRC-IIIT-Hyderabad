@@ -204,4 +204,12 @@ This project owes its success to the guidance and support of several individuals
 
 ---
 
+## License
+
+This repository contains multiple components, and the licensing for each component is different:
+
+- **Code**: The code in this repository is released under the MIT License, see [LICENSE_CODE.txt](./LICENSE_CODE.txt).
+- **Dataset**: The dataset included in this repository is subject to its own terms and conditions as outlined in [LICENSE_DATASET.txt](./LICENSE_DATASET.txt).
+
+
 
